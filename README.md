@@ -1,3 +1,5 @@
+https://juejin.im/post/5b3a23746fb9a024e15cad79
+
 UidGenerator
 ==========================
 [In Chinese 中文版](README.zh_cn.md)
